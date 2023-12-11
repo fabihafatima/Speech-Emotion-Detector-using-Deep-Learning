@@ -1,5 +1,5 @@
 
-# ![Logo]("static\spede3.jpg") **Sp**eech **E**motion **De**tector
+# ![Logo]("static/spede3.jpg") **Sp**eech **E**motion **De**tector
 
 Bringing you upto speed with emotions depicted in any speech, this a ML/DL based tool which helps in detecting a total of eight emotions namely: happy, sad, neutral, anger, disgust, calm, surprised and fearful.
 
@@ -63,8 +63,8 @@ The SER system operates through four main steps:
 
 
 
-![App Screenshot](static\screenshots\spede1.jpg)
-![App Screenshot](static\screenshots\spede2.jpg)
+![App Screenshot](static/screenshots/spede1.jpg)
+![App Screenshot](static/screenshots/spede2.jpg)
 
 ## Dependencies
 
