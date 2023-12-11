@@ -1,5 +1,5 @@
 
-# ![Logo]("static/spede3.jpg") **Sp**eech **E**motion **De**tector
+# ![Logo](static/spede3.jpg) **Sp**eech **E**motion **De**tector
 
 Bringing you upto speed with emotions depicted in any speech, this a ML/DL based tool which helps in detecting a total of eight emotions namely: happy, sad, neutral, anger, disgust, calm, surprised and fearful.
 
@@ -50,6 +50,11 @@ The model has been trained on a dataset comprising 5252 samples from the followi
 3. **Speech-to-Word Translation**: The application includes a speech-to-word translator, utilizing advanced algorithms to convert spoken language into written text. This feature enhances the user experience by providing a textual representation of the spoken words.
 4. **Interactive UI**: The vanilla JavaScript, CSS, and HTML-based user interface ensure a seamless and visually appealing interaction. Users are guided through the process of uploading speech recordings and receive clear, comprehensible results.
 
+
+![App Screenshot](static/screenshots/spede1.jpg)
+
+![App Screenshot](static/screenshots/spede2.jpg)
+
 ### Speech Emotion Recognition (SER) System
 The SER system operates through four main steps:
 
@@ -60,11 +65,6 @@ The SER system operates through four main steps:
 - **Feature Relevance Determination:** The system determines which features are most relevant for accurately differentiating each emotion. This step enhances the precision of emotion classification.
 
 - **Deep Learning and Machine Learning Classification:** The selected features are introduced to both deep learning and machine learning classifiers for recognition. This dual approach ensures robust emotion detection and classification.
-
-
-
-![App Screenshot](static/screenshots/spede1.jpg)
-![App Screenshot](static/screenshots/spede2.jpg)
 
 ## Dependencies
 
