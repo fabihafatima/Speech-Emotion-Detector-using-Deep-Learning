@@ -1,9 +1,9 @@
 
 # ![Logo](static/spede3.jpg) **Sp**eech **E**motion **De**tector
 
-Bringing you upto speed with emotions depicted in any speech, this a ML/DL based tool which helps in detecting a total of eight emotions namely: happy, sad, neutral, anger, disgust, calm, surprised and fearful.
+Bringing you up to speed with emotions depicted in any speech, an ML/DL based tool helps in detecting a total of eight emotions namely: happy, sad, neutral, anger, disgust, calm, surprised and fearful.
 
-You can upload a wav file in order to detect the emotion in that 
+You can upload a WAV file in order to detect the emotion in that 
 speech or song.
 
 # Overview
